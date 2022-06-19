@@ -1,5 +1,7 @@
 # Arduino
 
+youtube demo: https://www.youtube.com/shorts/gHfrUvlb1Ho
+
 This is a strain gauge measurement device. This device uses strain gauges in order to to measure strain. 
 
 ![1](https://github.com/BouzoulasDimitrios/Arduino/blob/main/pictures/placement.jpg)
